@@ -13,3 +13,21 @@ of phenetic, genomic, phylogenetic and evolutionary-molecular elements in a corp
     -d <database_file> Database file in .msh format
     -m <model>         Select between two models: mptp or bptp
     -h                 Display this help message
+    
+Before you begin, install the following dependencies:                                                                 
+
+	sudo apt install apcalc
+	sudo apt install ncbi-entrez-direct
+    sudo apt install ncbi-blast+ 
+    conda install -c bioconda fastani
+ 	conda install -c bioconda jolytree
+    conda install -c bfurneaux bptp
+    https://github.com/Pas-Kapli/mptp
+
+Contact: Ayixon Sánchez-Reyes  ayixon@gmail.com 
+Computational Microbiology                                                                              
+Microbiological Observatory                                                                             
+Institute of Biotechnology, UNAM, Cuernavaca, MEXICO                                                    
+                                                                                                     
+============                                                                                              
+= VERSIONS =      VERSION=1.0. Written by Ayixon Sánchez Reyes                      
