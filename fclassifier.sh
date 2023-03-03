@@ -259,17 +259,9 @@ cp JolyTree_out/PTP*  sp_Results/ ; \
 echo -e " \e[0;32mSpeciation test done, look at the sp_Results directory  \e[0m "
 
 echo ""
-	echo -e " \e[0;32mFast_Genome_Classifier pipeline done  \e[0m "
+	echo -e " \e[0;32m Fast Fungal Genome Classifier pipeline done  \e[0m "
 echo ""
 echo -e " \e[0;33mWe recommend that you test the phylophenetic hypothesis about *Diagnostic Characters*  \e[0m "
-
-echo -e " \e[0;33mYou may want to explore the following phenotypic determinants:  \e[0m "
-
-echo -e " \e[0;33mMenaquinone biosynthesis including the menaquinone reductase gene (MenJ)  \e[0m "
-
-echo -e " \e[0;33mFatty acid synthesis cycle FASI, FASII \e[0m "
-
-echo -e " \e[0;33m...any other phenotypic determinant of interest  \e[0m "
 
 echo ""
 	echo "Thank you for your support, enjoy it"
