@@ -24,7 +24,7 @@ Before you begin, install the following dependencies:
     conda install -c bfurneaux bptp
     https://github.com/Pas-Kapli/mptp
     
- > **Download preconfigured Fungal** database here [Funagl Mash DB](https://drive.google.com/file/d/1C3nl1MJjJytGJ9_F0A-fCSJRoLwVCcJM/view)
+ > **Download preconfigured Fungal** database here [Fungal Mash DB](https://drive.google.com/file/d/1C3nl1MJjJytGJ9_F0A-fCSJRoLwVCcJM/view)
 
 Contact: Ayixon Sánchez-Reyes  ayixon@gmail.com 
 Computational Microbiology                                                                              
