@@ -18,11 +18,11 @@ Before you begin, install the following dependencies:
 
 	sudo apt install apcalc
 	sudo apt install ncbi-entrez-direct
-    sudo apt install ncbi-blast+ 
-    conda install -c bioconda fastani
- 	conda install -c bioconda jolytree
-    conda install -c bfurneaux bptp
-    https://github.com/Pas-Kapli/mptp
+	sudo apt install ncbi-blast+ 
+	conda install -c bioconda fastani
+	conda install -c bioconda jolytree
+	conda install -c bfurneaux bptp
+	https://github.com/Pas-Kapli/mptp
     
  > **Download preconfigured Fungal** database here [Fungal Mash DB](https://drive.google.com/file/d/1C3nl1MJjJytGJ9_F0A-fCSJRoLwVCcJM/view)
 
