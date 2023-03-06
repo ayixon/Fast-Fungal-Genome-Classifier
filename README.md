@@ -22,7 +22,7 @@ Before you begin, install the following dependencies:
 	conda install -c bioconda fastani
 	conda install -c bioconda jolytree
 	conda install -c bfurneaux bptp
-	https://github.com/Pas-Kapli/mptp
+	sudo apt-get install -y mptp
     
  > **Download preconfigured Fungal** database here [Fungal Mash DB](https://drive.google.com/file/d/1C3nl1MJjJytGJ9_F0A-fCSJRoLwVCcJM/view)
 
