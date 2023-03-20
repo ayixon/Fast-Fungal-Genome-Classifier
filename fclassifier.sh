@@ -123,7 +123,7 @@ fi
 head output.mash.txt
 
 
-cut -f3 output.mash.txt |head -n 100 > distancias 
+cut -f3 output.mash.txt |head -n 500 > distancias 
 
 
 uniq distancias > dist.uniq 
