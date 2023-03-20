@@ -1,7 +1,7 @@
 # Fast-Fungal-Genome-Classifier
 A tool for quickly and accurately classifying fungal genomes
 
-This soft extends the phyllophenetic concept of species for its application in the classification of fungal genomes. It evaluates several working hypotheses:
+This soft extends the phylophenetic concept of species for its application in the classification of fungal genomes. It evaluates several working hypotheses:
 
 Genomic coherence, monophyly, and the speciation or coalescence hypothesis under the Bayesian model of Poisson tree processes (bPTP). This allows the evaluation
 of phenetic, genomic, phylogenetic and evolutionary-molecular elements in a corpus of speciation.
