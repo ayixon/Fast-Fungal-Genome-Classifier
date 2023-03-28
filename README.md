@@ -11,7 +11,7 @@ of phenetic, genomic, phylogenetic and evolutionary-molecular elements in a corp
     Options:
     -i <input_file>    Input fasta, fna, or fa archive
     -d <database_file> Database file in .msh format
-    -m <model>         Select between two species delimitation methods mPTP or bPTP
+    -m <model>         Select between two species delimitation methods mptp or bptp
     -h                 Display this help message
    More information on the species delimitation methods here [mPTP](https://academic.oup.com/bioinformatics/article/33/11/1630/2929345) or [bPTP](https://academic.oup.com/bioinformatics/article/29/22/2869/314968)
     
