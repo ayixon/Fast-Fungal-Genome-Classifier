@@ -15,6 +15,8 @@ of phenetic, genomic, phylogenetic and evolutionary-molecular elements in a corp
     -h                 Display this help message
    More information on the species delimitation methods here [mPTP](https://academic.oup.com/bioinformatics/article/33/11/1630/2929345) or [bPTP](https://academic.oup.com/bioinformatics/article/29/22/2869/314968)
     
+I strongly recommend testing both speciation models (mptp and bptp)
+    
 Before you begin, install the following dependencies: 
 
 > **you might want to try mamba instead of conda in the following commands**
